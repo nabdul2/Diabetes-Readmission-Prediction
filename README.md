@@ -187,6 +187,13 @@ This interpretability bridges the gap between **data science** and **clinical de
 - Jupyter Notebook  
 
 ---
+---
+
+## 👥 Contributors
+
+This collaborative project was developed by:
+- [@WhatIfAditya7](https://github.com/WhatIfAditya7)
+- [@nabdul2](https://github.com/nabdul2)
 
 
 
